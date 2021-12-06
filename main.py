@@ -3,7 +3,7 @@
 # Unit 1 Final Practice Program 1
 
 print("Please be careful when around the \"baby\" elephant.")
-print("He \\ she is a very dangerous animal.")
+print("They are very dangerous animals.")
 print("Thank you for your \'understanding.\'")
 
 print("""
